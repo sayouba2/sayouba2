@@ -174,7 +174,7 @@ build something valuable.
   &nbsp;•&nbsp;
   <a href="https://ma.linkedin.com/in/ouedraogo-sayouba-121722258/fr">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:saykoodg677@gmail.com">Email</a>
+  <a href="mailto:sayouba.ouedraogo.pro@gmail.com">Email</a>
 </p>
 
 <p align="center">
