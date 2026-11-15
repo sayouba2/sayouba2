@@ -24,7 +24,7 @@
   <a href="https://ma.linkedin.com/in/ouedraogo-sayouba-121722258/fr">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:saykoodg677@gmail.com">
+  <a href="mailto:sayouba.ouedraogo.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
